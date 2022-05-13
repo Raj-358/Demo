@@ -1,0 +1,17 @@
+Lion
+Tiger
+Wolf
+Bear
+Elephant
+Fox
+Sanke
+Deer
+Horse
+Goat
+Dog
+Cat
+Cow
+Monkey
+Kangroo
+Boar
+Donkey
